@@ -1,8 +1,8 @@
 {
+  "homepage": "https://aech12.github.io/Robofriends-reference/",
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aech12.github.io/Robofriends-reference/",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
